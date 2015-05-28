@@ -66,7 +66,7 @@ The rest of this document is a worksheet for you to fill in and keep updated.  W
 
 * What conferences / seminars / hackathons / etc should you attend?  What are the deadlines?
 * How can you expand your network in a way that will open doors? (Hints: lab visits, internships, competitions)
-* Do you feel comfortable writing a blog or using social media professionally?
+* Do you feel comfortable writing a blog or using social media professionally? (this is absolutely the best way to get an industry job as far as I can tell). 
 
 ### Recommendations
 
